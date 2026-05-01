@@ -1,0 +1,81 @@
+SBA 504 LOAN PROGRAM GUIDELINES
+Version 2.4 | Effective: October 1, 2023 | Risk Tier: High
+Regulation References: SBA, ECOA, TILA
+Applicable Loan Types: SBA
+
+1. PROGRAM OVERVIEW
+The SBA 504 Loan Program provides long-term, fixed-rate financing for major fixed assets
+through Certified Development Companies (CDCs). The program is authorized under
+Title V of the Small Business Investment Act of 1958, 15 U.S.C. § 695 et seq.
+
+2. ELIGIBILITY REQUIREMENTS
+
+2.1 Borrower Eligibility
+Business must:
+- Be a for-profit business operating in the United States
+- Have tangible net worth not exceeding $20 million
+- Have average net income not exceeding $6.5 million after federal taxes for prior 2 years
+- Not be in the business of passive real estate investment
+- Not be a financial business (banks, lending firms, insurance companies)
+
+2.2 Use of Proceeds (Eligible)
+504 proceeds may only be used for fixed assets:
+- Purchase of existing buildings
+- Construction of new facilities
+- Renovation or modernization of existing facilities
+- Purchase of long-term machinery and equipment (10+ year useful life)
+- Improvement of land and utilities
+
+2.3 Use of Proceeds (Ineligible)
+- Working capital or inventory
+- Refinancing existing debt (with limited exceptions under SBA SOP 50 10 7)
+- Debt repayment
+- Equity investment
+- Real estate held for investment (passive income)
+
+3. LOAN STRUCTURE
+
+3.1 Standard 504 Structure
+- Bank (First Mortgage): 50% of total project cost — conventional terms, bank sets rate
+- CDC/SBA (Second Mortgage — 504 Debenture): 40% of total project cost — 10 or 20 year term, fixed rate
+- Borrower Equity: minimum 10% (15% for start-ups <2 years; 20% for special-use properties)
+
+3.2 Maximum Debenture Amounts
+- Standard project: $5,000,000
+- Energy public policy goals: $5,500,000 (renewable energy or 10% energy reduction)
+- Manufacturing: $5,500,000
+
+3.3 Job Creation/Retention Requirement
+General rule: create or retain 1 job per $90,000 of SBA debenture ($140,000 for manufacturing).
+Alternative: meet a community development or public policy goal.
+
+4. UNDERWRITING STANDARDS
+
+4.1 Debt Service Coverage
+Minimum DSCR of 1.10x on project cash flow (Year 2 stabilized).
+For acquisitions: use historical NOI with 10% vacancy haircut.
+For new construction: independent market study required.
+
+4.2 Collateral
+First mortgage on financed property is required.
+SBA takes second position behind bank's first mortgage.
+Additional collateral may be required based on LTV and DSCR.
+
+4.3 Personal Guarantee
+All owners with 20%+ ownership must personally guarantee.
+Spouses of principals must sign guarantee if state law requires.
+
+5. DOCUMENTATION REQUIREMENTS
+- Completed SBA Form 1244 (Application for Section 504 Loans)
+- Business and personal tax returns (3 years)
+- Personal financial statements (SBA Form 413)
+- Business plan with 3-year projections (for start-ups)
+- Environmental questionnaire (Phase I ESA may be required)
+- Appraisal by SBA-approved appraiser
+- Flood zone determination certificate
+
+6. PROCESSING TIMELINE
+- CDC submits package to SBA: within 5 business days of complete application
+- SBA approval: typically 5-10 business days
+- Debenture funding: occurs quarterly (SBA pools debentures)
+- Total timeline: 60-90 days from application to closing

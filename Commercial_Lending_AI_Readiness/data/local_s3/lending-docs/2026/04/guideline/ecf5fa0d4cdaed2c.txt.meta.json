@@ -1,0 +1,15 @@
+{
+  "doc_id": "ecf5fa0d4cdaed2c",
+  "s3_key": "lending-docs/2026/04/guideline/ecf5fa0d4cdaed2c.txt",
+  "doc_type": "guideline",
+  "ingested_at": "2026-04-30T11:26:44.923893",
+  "s3_tags": {
+    "doc_type": "guideline",
+    "risk_tier": "high",
+    "jurisdiction": "federal",
+    "regulation_refs": "ECOA,SBA,TILA",
+    "loan_types": "SBA,C&I",
+    "version": "2.4",
+    "effective_date": "2023-10-01"
+  }
+}

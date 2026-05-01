@@ -1,0 +1,86 @@
+COMMERCIAL REAL ESTATE LENDING POLICY
+Version 5.0 | Effective: July 1, 2025 | Risk Tier: High
+Regulation References: ECOA, CRA, BSA
+Applicable Loan Types: CRE
+
+1. SCOPE
+This policy governs all commercial real estate (CRE) loan originations, including
+income-producing properties, owner-occupied commercial real estate (OOCRE),
+construction loans, and CRE loan participations.
+
+2. PROPERTY TYPES AND RISK CLASSIFICATION
+
+2.1 Standard Risk Properties
+- Multi-family residential (5+ units)
+- Retail strip centers (established tenants, <70% single tenant)
+- Office buildings (suburban, multi-tenant)
+- Industrial/warehouse
+- Owner-occupied commercial (business operations >51% of space)
+
+2.2 Elevated Risk Properties (enhanced underwriting required)
+- Hotels and hospitality (cyclical revenue, management dependency)
+- Assisted living and healthcare facilities (regulatory risk)
+- Single-tenant properties (lease rollover risk)
+- Retail: mall anchors and big-box (secular headwinds)
+- Land loans (no income stream, speculative)
+
+2.3 Restricted Properties (require senior credit approval)
+- Cannabis-related properties
+- Adult entertainment
+- Properties with known environmental contamination
+- Churches and non-profit real estate
+
+3. UNDERWRITING CRITERIA
+
+3.1 Income Analysis
+- Use trailing 12-month actual NOI for stabilized properties
+- Apply 5% vacancy factor for fully occupied properties
+- Management fee: minimum 5% of EGI even if self-managed
+- Capital reserve: minimum $0.15/SF/year for office/retail, $0.10/SF for industrial
+
+3.2 Market Analysis Required For:
+- Loans >$1M: local market rent comparables
+- Loans >$3M: third-party market study
+- Construction loans: pre-leasing requirements (typically 30-50% depending on market)
+
+3.3 Borrower Analysis
+- Minimum 3 years of profitable CRE ownership experience for investment properties
+- Net worth ≥ loan amount (including guarantors)
+- Liquidity ≥ 12 months of debt service post-closing
+- Global DSCR ≥ 1.20x (all existing obligations + proposed debt)
+
+4. CRE CONCENTRATION LIMITS
+Per regulatory guidance (2006 CRE Guidance, FDIC):
+- Construction and land development: ≤100% of risk-based capital
+- Total CRE (non-owner-occupied): ≤300% of risk-based capital
+
+Loans approaching concentration limits require:
+- Enhanced stress testing (200bps rate shock)
+- Board-approved concentration risk management plan
+- Quarterly reporting to senior management
+
+5. ENVIRONMENTAL REVIEW
+- Phase I Environmental Site Assessment required for all loans >$500,000
+- Phase II required if Phase I identifies Recognized Environmental Conditions (RECs)
+- ASTM E1527-21 standard applies
+- Environmental indemnification agreement required in all cases
+
+6. APPRAISAL STANDARDS
+Per FIRREA and USPAP:
+- State-certified general appraiser for all CRE appraisals
+- Independence requirement: appraiser cannot be compensated based on loan outcome
+- Review appraisal required for loans >$5,000,000
+- Desk review acceptable only for renewals with no material change
+
+7. LOAN TERMS
+
+7.1 Amortization Schedules
+- Multi-family: up to 30 years amortization, 10-year term
+- Office/retail/industrial: up to 25 years amortization, 5-10 year term
+- Hotels: up to 20 years amortization, 5-7 year term
+- Construction: interest-only during construction, convert to permanent
+
+7.2 Rate Structures
+- Fixed rate: typically 3, 5, or 7 year fixed, then floating
+- Floating rate: SOFR + spread (LIBOR legacy loans: complete transition by June 2023)
+- Rate floors: minimum 4.0% on all CRE loans

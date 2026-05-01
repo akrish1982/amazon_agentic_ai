@@ -1,0 +1,15 @@
+{
+  "doc_id": "106d61000a2aa4a3",
+  "s3_key": "lending-docs/2026/04/policy/106d61000a2aa4a3.txt",
+  "doc_type": "policy",
+  "ingested_at": "2026-04-30T11:26:44.922148",
+  "s3_tags": {
+    "doc_type": "policy",
+    "risk_tier": "critical",
+    "jurisdiction": "federal",
+    "regulation_refs": "BSA,AML,SBA",
+    "loan_types": "SBA,CRE,C&I",
+    "version": "7.1",
+    "effective_date": "2025-03-15"
+  }
+}

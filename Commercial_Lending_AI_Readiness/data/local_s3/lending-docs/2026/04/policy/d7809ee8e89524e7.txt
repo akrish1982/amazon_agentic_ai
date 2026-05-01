@@ -1,0 +1,84 @@
+EQUAL CREDIT OPPORTUNITY ACT (ECOA) FAIR LENDING POLICY
+Version 4.1 | Effective: January 1, 2024 | Risk Tier: Critical
+Regulation References: ECOA, TILA
+Applicable Loan Types: SBA, CRE, C&I, construction
+
+1. POLICY STATEMENT
+The Bank is committed to fair lending in all credit decisions, consistent with the Equal
+Credit Opportunity Act (15 U.S.C. § 1691 et seq.) and Regulation B (12 C.F.R. Part 202).
+No applicant shall be discriminated against on any prohibited basis.
+
+2. PROHIBITED BASES (ECOA/Regulation B)
+- Race or color
+- Religion
+- National origin
+- Sex or gender identity (including sexual orientation per CFPB guidance)
+- Marital status
+- Age (provided applicant has capacity to contract)
+- Receipt of income from public assistance programs
+- Exercise of rights under the Consumer Credit Protection Act
+
+3. PERMISSIBLE CREDIT FACTORS
+Credit decisions must be based solely on:
+- Credit history and score (business and personal)
+- Debt-to-income or DSCR ratios
+- Collateral quality and coverage
+- Business cash flow and profitability
+- Industry and market risk
+- Management experience and capacity
+
+4. ADVERSE ACTION REQUIREMENTS
+
+4.1 Notice Timing
+- Consumer credit: within 30 days of application (Reg B §202.9)
+- Business credit: within a reasonable time (30 days recommended)
+- Incomplete application: notice within 30 days with information needed to complete
+
+4.2 Required Notice Content
+Written adverse action notice must state:
+- Action taken (denial, counteroffer, etc.)
+- Name and address of creditor
+- ECOA statement of rights
+- Name and address of federal regulatory agency
+- Specific reasons for adverse action (or right to request them within 60 days)
+
+4.3 Specific Reasons Requirement
+Vague reasons are not acceptable. Use specific factual reasons:
+ACCEPTABLE: "Credit score of 620 is below our minimum of 650"
+NOT ACCEPTABLE: "Credit history" or "insufficient creditworthiness"
+
+4.4 Record Retention
+- Business credit applications: 25 months from date of action
+- Consumer credit applications: 25 months from date of action
+- All records sufficient to evidence compliance
+
+5. SPECIAL RULE FOR BUSINESS CREDIT
+For business credit with gross revenues >$1 million in preceding fiscal year:
+- Bank may, but is not required to, provide specific reasons
+- Must maintain records of the credit decision
+- Adverse action notice timeline applies
+
+6. FAIR LENDING TESTING AND MONITORING
+
+6.1 File Review
+- Quarterly random file review: 5% of approved and denied applications
+- Annual comparative file review: compare similarly situated applicants across protected classes
+- Pricing analysis: test for unexplained pricing disparities
+
+6.2 HMDA/CRA Data Integrity
+For residential mortgage components within commercial loans:
+- Ensure accurate HMDA data collection and reporting (Reg C)
+- Geocode all loan applications to census tract level
+- Annual HMDA LAR submission by March 1
+
+7. TRAINING
+All loan officers, underwriters, and credit staff must complete:
+- Annual ECOA/Fair Lending training (minimum 2 hours)
+- New hire training within 30 days
+- Enhanced training for staff with fair lending findings
+
+8. COMPLAINTS AND MONITORING
+- Centralized tracking of all fair lending complaints
+- Monthly report to Chief Compliance Officer
+- Annual fair lending risk assessment presented to Board
+- Regulatory examination preparation: maintain complete adverse action files

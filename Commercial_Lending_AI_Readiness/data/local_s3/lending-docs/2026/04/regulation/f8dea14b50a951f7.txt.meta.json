@@ -1,0 +1,15 @@
+{
+  "doc_id": "f8dea14b50a951f7",
+  "s3_key": "lending-docs/2026/04/regulation/f8dea14b50a951f7.txt",
+  "doc_type": "regulation",
+  "ingested_at": "2026-04-30T11:25:17.241147",
+  "s3_tags": {
+    "doc_type": "regulation",
+    "risk_tier": "high",
+    "jurisdiction": "federal",
+    "regulation_refs": "ECOA,BSA",
+    "loan_types": "CRE,C&I",
+    "version": "2.8",
+    "effective_date": "2025-04-01"
+  }
+}

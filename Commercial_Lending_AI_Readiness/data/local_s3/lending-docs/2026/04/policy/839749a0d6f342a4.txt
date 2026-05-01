@@ -1,0 +1,90 @@
+COMMERCIAL LENDING UNDERWRITING POLICY
+Version 3.2 | Effective: January 1, 2026 | Risk Tier: Critical
+Regulation References: ECOA, BSA, CRA, TILA
+Applicable Loan Types: CRE, C&I, SBA, construction
+
+1. PURPOSE AND SCOPE
+This policy establishes underwriting standards for all commercial loan originations exceeding $250,000.
+It applies to all relationship managers, credit analysts, and senior underwriters.
+
+2. CREDIT QUALITY STANDARDS
+
+2.1 Minimum Credit Score Requirements
+- C&I loans <$1M: minimum business credit score 650, owner personal FICO 680
+- C&I loans $1M–$5M: minimum business credit score 680, owner personal FICO 700
+- CRE loans all amounts: minimum business credit score 660, owner personal FICO 700
+- SBA loans: follow SBA SOP 50 10 7 standards; minimum FICO 650
+
+2.2 Financial Statement Requirements
+Borrowers must provide:
+- 3 years of business tax returns (IRS Form 1120 or 1065)
+- 2 years of personal tax returns for all guarantors with 20%+ ownership
+- CPA-prepared or audited financial statements for loans >$2M
+- Interim financials within 90 days of application date
+
+3. DEBT SERVICE COVERAGE RATIO (DSCR) REQUIREMENTS
+
+3.1 Minimum DSCR Thresholds by Loan Type
+DSCR = Net Operating Income (NOI) / Annual Debt Service (ADS)
+
+- C&I loans: minimum DSCR 1.25x (global cash flow analysis required)
+- CRE loans: minimum DSCR 1.20x (property-level NOI used)
+- SBA 7(a): minimum DSCR 1.15x (SBA requirement, use historical average)
+- SBA 504: minimum DSCR 1.10x on project cash flow
+- Construction loans: minimum DSCR 1.20x on stabilized pro forma
+
+3.2 DSCR Calculation Standards
+- Use 3-year average NOI for existing businesses
+- For new projects, use Year-2 stabilized projections with 10% vacancy factor
+- All existing debt obligations must be included in ADS calculation
+- Seasonal businesses: use 12-month average, not peak period
+
+4. LOAN-TO-VALUE (LTV) STANDARDS
+
+4.1 Maximum LTV by Collateral Type
+- Owner-occupied commercial real estate: 80% LTV
+- Investment/income-producing CRE: 75% LTV
+- Equipment and machinery: 70% of appraised FMV
+- Accounts receivable: 70% of eligible AR (aged <90 days)
+- Inventory: 50% of finished goods value
+- SBA 504 total project financing: 90% (SBA debenture 40% + bank 50% + equity 10%)
+
+4.2 Appraisal Requirements
+- Licensed MAI appraiser required for CRE collateral >$500,000
+- Two appraisals required for CRE collateral >$2,000,000
+- Desktop appraisals not acceptable for primary collateral
+- Appraisals must be dated within 12 months of closing
+
+5. COMPLIANCE REQUIREMENTS
+
+5.1 ECOA Compliance (Equal Credit Opportunity Act)
+All credit decisions must be based solely on creditworthiness factors. Prohibited bases include
+race, color, religion, national origin, sex, marital status, age, or receipt of public assistance.
+Adverse action notices must be issued within 30 days per Regulation B §202.9.
+
+5.2 BSA/AML Requirements
+- CIP (Customer Identification Program) verification before account opening
+- Beneficial ownership certification required for all legal entity borrowers
+- Enhanced due diligence for high-risk industries: MSBs, cannabis-adjacent, cash-intensive
+- Transaction monitoring alerts must be reviewed within 5 business days
+
+5.3 CRA Considerations
+CRE loans in the bank's assessment area are eligible for CRA credit.
+LMI borrowers and projects in LMI census tracts receive enhanced CRA consideration.
+
+6. APPROVAL AUTHORITY
+
+6.1 Delegated Lending Authority
+- Relationship Manager: up to $250,000
+- Senior RM / Team Lead: up to $750,000
+- Branch Credit Officer: up to $2,000,000
+- Regional Credit Officer: up to $5,000,000
+- Chief Credit Officer: up to $15,000,000
+- Credit Committee: above $15,000,000
+
+6.2 Mandatory Escalation Triggers
+Regardless of loan amount, escalate to next level for:
+- Borrower with AML flag or OFAC watch list match
+- DSCR below minimum threshold
+- Exceptions to policy (document all exceptions)
+- Existing classified or criticized credits

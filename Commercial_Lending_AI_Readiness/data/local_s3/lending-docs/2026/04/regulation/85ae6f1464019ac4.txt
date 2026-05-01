@@ -1,0 +1,78 @@
+AI AND DATA GOVERNANCE POLICY FOR LENDING SYSTEMS
+Version 1.0 | Effective: January 1, 2026 | Risk Tier: High
+Regulation References: ECOA, BSA
+Applicable Loan Types: SBA, CRE, C&I, construction
+
+1. PURPOSE
+This policy establishes governance standards for AI systems and data used in commercial lending,
+ensuring compliance with fair lending laws, model risk management guidance (SR 11-7), and
+emerging AI regulatory expectations.
+
+2. DATA QUALITY STANDARDS FOR AI CONSUMPTION
+
+2.1 Completeness Requirements
+All data fed to AI systems must meet minimum completeness thresholds:
+- CRM records: ≥95% completeness for mandatory fields (EIN, contact, KYC status)
+- Financial data: ≥90% completeness for current-year financials
+- Compliance data: 100% completeness for OFAC screening dates
+
+2.2 Freshness Standards
+- Customer risk profiles: refreshed within 90 days
+- Credit bureau pulls: within 120 days of loan decision
+- Beneficial ownership certifications: within 3 years or on material change
+- Property appraisals: within 12 months
+
+2.3 Data Lineage Requirements
+All data used in AI-assisted decisions must have documented lineage:
+- Source system identification (CRM, LOS, core banking)
+- Transformation history (ETL pipeline steps)
+- Quality check results and exception handling
+- Timestamp of last validation
+
+3. MODEL RISK MANAGEMENT (SR 11-7 COMPLIANCE)
+
+3.1 Model Validation Requirements
+AI models used in credit decisioning require:
+- Independent model validation before production deployment
+- Annual ongoing validation
+- Performance monitoring: Gini coefficient, PSI (Population Stability Index), Kolmogorov-Smirnov
+- Outcome testing: adverse action accuracy, disparate impact analysis
+
+3.2 Fair Lending AI Testing
+Before deploying AI in credit decisions:
+- Disparate impact analysis: test for statistical significance across protected classes
+- Proxy variable analysis: identify and remove variables correlated with prohibited bases
+- Model explainability: must be able to provide specific adverse action reasons
+
+4. KNOWLEDGE BASE GOVERNANCE
+
+4.1 Policy Document Management
+- All policy documents must be version-controlled with effective dates
+- Superseded versions must be archived (not deleted) with clear deprecation dates
+- AI retrieval systems must use effective-date filtering to prevent retrieval of expired policy
+
+4.2 Metadata Requirements for AI Retrieval
+Every document ingested into the AI knowledge base must have:
+- Document type classification
+- Applicable regulation references
+- Applicable loan type tags
+- Risk tier classification
+- Effective and expiry dates
+- Jurisdiction (federal vs. state-specific)
+- Version number
+
+5. AGENT AND AUTOMATION GOVERNANCE
+
+5.1 Human-in-the-Loop Requirements
+AI agents may assist but not make final credit decisions. Required human review for:
+- All loan approvals (AI recommendation must be reviewed by licensed officer)
+- Adverse action: human must review and sign off on reasons cited
+- OFAC/sanctions matches: always requires human decision
+
+5.2 Audit Trail
+All AI agent actions must be logged:
+- Query inputs and tool calls
+- Retrieved context sources (with document IDs)
+- Recommendations made
+- Human review outcome
+Retention: 7 years for credit-related AI logs

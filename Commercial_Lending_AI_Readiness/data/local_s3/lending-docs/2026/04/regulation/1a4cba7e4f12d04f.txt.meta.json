@@ -1,0 +1,15 @@
+{
+  "doc_id": "1a4cba7e4f12d04f",
+  "s3_key": "lending-docs/2026/04/regulation/1a4cba7e4f12d04f.txt",
+  "doc_type": "regulation",
+  "ingested_at": "2026-04-30T11:25:17.243456",
+  "s3_tags": {
+    "doc_type": "regulation",
+    "risk_tier": "high",
+    "jurisdiction": "federal",
+    "regulation_refs": "ECOA,BSA,CRA",
+    "loan_types": "CRE,construction",
+    "version": "5.0",
+    "effective_date": "2025-07-01"
+  }
+}

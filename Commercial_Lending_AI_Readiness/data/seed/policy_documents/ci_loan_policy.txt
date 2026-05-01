@@ -1,0 +1,88 @@
+COMMERCIAL & INDUSTRIAL (C&I) LENDING POLICY
+Version 2.8 | Effective: April 1, 2025 | Risk Tier: High
+Regulation References: BSA, ECOA
+Applicable Loan Types: C&I
+
+1. OVERVIEW
+Commercial & Industrial (C&I) loans finance business operations, equipment, working capital,
+and asset-based lending. Unlike CRE, C&I loans are primarily supported by business cash flow
+rather than real estate collateral.
+
+2. ELIGIBLE LOAN PURPOSES
+- Working capital (revolving lines of credit, seasonal facilities)
+- Equipment and machinery purchase
+- Business acquisition financing
+- Inventory financing
+- Accounts receivable financing (factoring arrangements)
+- Leasehold improvements
+- Supply chain / trade finance
+
+3. FINANCIAL ANALYSIS
+
+3.1 Cash Flow Analysis
+Primary repayment source is business operating cash flow:
+- Analyze trailing 3-year EBITDA trend (must be positive and growing or stable)
+- Calculate DSCR: EBITDA / Total Debt Service ≥ 1.25x
+- Fixed Charge Coverage Ratio: (EBITDA - CapEx - Taxes) / Debt Service ≥ 1.10x
+- Stress test: DSCR at 10% revenue decline must remain ≥ 1.0x
+
+3.2 Working Capital Analysis
+- Current ratio: minimum 1.20x
+- Quick ratio: minimum 0.80x
+- Accounts receivable days: benchmark to industry median (NAICS-specific)
+- Inventory days: benchmark to industry median
+- Accounts payable days: ensure no stretching indicating liquidity stress
+
+3.3 Leverage Analysis
+- Debt/EBITDA: maximum 4.0x for standard credits, 5.0x for sponsor-backed
+- Senior Debt/EBITDA: maximum 3.0x
+- Total Liabilities/Tangible Net Worth: maximum 4.0x
+
+4. COLLATERAL REQUIREMENTS
+
+4.1 Collateral for Lines of Credit (Revolving)
+- Asset-based: 80% eligible AR (<90 days) + 50% finished goods inventory
+- Cash flow-based (unsecured): available for investment-grade or established credits
+- Borrowing base certificate required monthly (quarterly for credits <$500K)
+
+4.2 Collateral for Term Loans
+- Equipment: 70-80% of appraised forced liquidation value
+- Blanket business lien (UCC-1 filing on all assets)
+- Personal guarantee of all owners ≥20%
+
+4.3 Lien Priority
+- Bank must hold first-priority perfected security interest
+- UCC search required prior to commitment; lien search in all states of operation
+- Re-search at closing; re-lien if existing liens found
+
+5. INDUSTRY-SPECIFIC GUIDELINES
+
+5.1 Technology Companies
+- Revenue recognition: verify GAAP compliance for SaaS/subscription models
+- Key person risk: assess dependency on founders/key employees
+- Intellectual property: confirm no material IP litigation
+
+5.2 Healthcare/Medical
+- Accounts receivable: distinguish Medicare/Medicaid (collectibility haircut 20%)
+- Regulatory risk: check CMS provider enrollment status
+- Malpractice insurance: confirm adequate coverage
+
+5.3 Retail / Consumer
+- Seasonality adjustment: normalize for seasonal revenue peaks
+- E-commerce competition risk: evaluate in credit memo
+- Lease obligations: include in fixed charge calculation
+
+6. PRICING AND STRUCTURE
+
+6.1 Interest Rate Pricing
+Pricing must reflect risk-adjusted return:
+- Tier 1 (DSCR >1.50x, score >720): SOFR + 175–225 bps
+- Tier 2 (DSCR 1.25-1.50x, score 680-720): SOFR + 225–300 bps
+- Tier 3 (DSCR 1.10-1.25x, score 650-679): SOFR + 300–400 bps
+
+6.2 Covenant Requirements
+For loans >$1M, include financial covenants:
+- Minimum DSCR tested annually (typically 1.20x)
+- Maximum leverage ratio tested quarterly
+- Minimum liquidity covenant (current ratio or minimum cash balance)
+- Material adverse change clause
